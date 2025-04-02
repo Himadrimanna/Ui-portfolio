@@ -23,8 +23,8 @@ const Work = () => {
             {/* text */}
             <div>
               <h2 className="h2 leading-tight text-accent">
-                My Latest <br />
-                Work
+                For UI/UX Work<br />
+                Checkout My
               </h2>
               <button className="btn btn-lg">
                 <a
